@@ -1,8 +1,8 @@
 class Jucies{
 
-String type="mango";
-int quantity=250;
-double juicePrice=40;
+String type;
+int quantity;
+double juicePrice;
 
 public Jucies(){
 

@@ -1,8 +1,8 @@
 class Candy{
 
-String candyName="kitkat";
-int noOfCandy=50;
-double candyPrice=150;
+String candyName;
+int noOfCandy;
+double candyPrice;
 
 public Candy(){
 	

@@ -1,8 +1,8 @@
 class Applications{
 
-String AppName="hitv";
-int Storage=42;
-String info="seriesInfo";
+String AppName;
+int Storage;
+String info;
 
 public Applications(){
 
