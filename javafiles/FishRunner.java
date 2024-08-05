@@ -112,8 +112,16 @@ public static void main(String[] args)
 		System.out.println("================");	
 	
 	    Led led=new Led("miniature","monochromatic",100);
+	  System.out.println(simcard5.name);
+	  System.out.println(simcard5.price);
+	  
 		Led led1=new Led("smd","directional",200);
+	  System.out.println(simcard5.name);
+	  System.out.println(simcard5.price);
+	  
 		Led led2=new Led("rgb","coherent",300);
+	  System.out.println(simcard5.name);
+	  System.out.println(simcard5.price);
 		Led led3=new Led("cob","monochromatic",400);
 		Led led4=new Led("dimmer","directional",100);
 		Led led5=new Led("oled","coherent",120);
