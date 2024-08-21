@@ -14,6 +14,7 @@ public void display()
 	System.out.println("run");
 	System.out.println("brand:"+brand);
 	System.out.println("weight:"+weight);
+	
 }
 
 
